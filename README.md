@@ -1,4 +1,4 @@
-AI Developer |  Data Scientist | Data Analyst | Chatbots | Recommendations | Image Processing | Security | QA Testing
+### AI Developer |  Data Scientist | Data Analyst | Chatbots | Recommendations | Image Processing | Security | QA Testing
 
 Hey there! I'm Aleena K V, a professional, in the field of AI with a background in E commerce. Over the 1.7+ years I've gained hands on experience specializing in recommendation systems, chatbots, image processing and security modules. What drives me is my passion for creating solutions that improve customer engagement and enhance security measures.
 
