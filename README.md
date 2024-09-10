@@ -1,8 +1,8 @@
 ### Hey there! 
-I'm Aleena K V, a professional, in the field of AI with a background in E commerce. Over the 1.7+ years I've gained hands on experience specializing in recommendation systems, chatbots, image processing and security modules. What drives me is my passion for creating solutions that improve customer engagement and enhance security measures.
+Hey there! I'm Aleena K V, a professional with over 1.7 years of experience as an AI Developer, including 6 months as a Python Developer. My background spans AI, recommendation systems, chatbots, image processing, and security modules. I’m passionate about leveraging data to create solutions that enhance customer engagement and improve business performance.
 
-Throughout my journey I've had the privilege of working on projects that not tackled real world challenges but also made improvements to business metrics. My expertise lies in AI, ML, DL and Python programming languages which have played a role in delivering outcomes.
+I have hands-on experience with AI, machine learning (ML), deep learning (DL), SQL, and Python, and I’m well-versed in using the latest Power BI tools for data visualization. My work has involved transforming complex data into actionable insights and driving business decisions.
 
-Looking ahead I'm thrilled about exploring opportunities in the evolving landscape of AI. I can't wait to collaborate with innovators like yourself and make an impact in this dynamic field. Lets connect and have a conversation, on how we can shape the future of AI ! Feel free to reach out to me at  📧 aleenakv8@gmail.com.
+I’m currently seeking opportunities in Data Analytics and am excited to bring my expertise to new challenges. Let’s connect and discuss how I can contribute to your team and help shape data-driven strategies. Feel free to reach out to me at  📧 aleenakv8@gmail.com.
 
 
