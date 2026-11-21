@@ -1,6 +1,17 @@
-### Hey there! 
-AI Developer with experience in web application development, software testing, and AI solutions. Proficient in Python, data visualization (Power BI, Tableau), and machine learning (NumPy, Pandas, TensorFlow). Proven track record in deploying chatbot solutions and enhancing security through image analysis. Seeking a dynamic role combining AI innovation with software development and testing.
+# Hi, I'm Aleena 👋
 
- Feel free to reach out to me at  📧 aleenakv8@gmail.com.
+Data analyst with a background in AI and software testing, based in Chennai. I turn data into dashboards and models people can act on.
 
+## Skills
+- **Languages and analysis:** Python, NumPy, Pandas
+- **Machine learning:** scikit-learn, TensorFlow, OpenCV
+- **Visualization:** Power BI, Tableau
+- **Web and apps:** Flask, chatbot development, software testing
 
+## Selected projects
+- [animal_extinction_prediction](https://github.com/aleenaallu/animal_extinction_prediction): ML model (Flask app) predicting which species are most at risk of extinction
+- [Apple_defect](https://github.com/aleenaallu/Apple_defect): defect detection on apple images using OpenCV
+- [captcha-adv](https://github.com/aleenaallu/captcha-adv): add a one-line description of this one
+
+## Find me
+[LinkedIn](https://www.linkedin.com/in/aleena-kv) · [Tableau Public](https://public.tableau.com/app/profile/aleena.kv)
